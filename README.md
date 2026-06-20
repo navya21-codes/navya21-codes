@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Navya%20Challa&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Navya%20Challa&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full+Stack+Developer;MERN+Stack+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=;Full+Stack+Developer;Building+Scalable+Web+Applications"/>
 
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/GPA-7.88%2F10-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-7.88%2F10-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/JNTUA-Anantapur-9333EA?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Tadpatri%2C%20Andhra%20Pradesh-6366F1?style=for-the-badge)
 
 <br/>
 
-<a href="https://developer-portfolio-qj9t.vercel.app/">
+<a href="https://developer-portfolio-sooty-mu.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -32,85 +32,57 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=navya21-codes&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/navya21-codes?style=for-the-badge&color=4F46E5)
-![](https://img.shields.io/github/stars/navya21-codes?style=for-the-badge&color=9333EA)
 
 </div>
 
 ---
 
-# About Me
-
-I am a **Computer Science Engineering student** focused on designing and developing modern software solutions that combine strong engineering principles with exceptional user experiences.
-
-My primary expertise lies in **Full Stack Development**, where I build scalable applications using modern JavaScript ecosystems, RESTful APIs, cloud deployment platforms, and database-driven architectures.
-
-I am passionate about:
-
-- Building production-grade web applications
-- Software engineering best practices
-- AI & Machine Learning technologies
-- System design and scalable architectures
-- Backend API development
-- Open-source collaboration
-- Product-focused engineering
-
-### Open To
-
-- Software Engineer Roles
-- Full Stack Developer Roles
-- Frontend Developer Roles
-- Backend Developer Roles
-- AI/ML Engineering Opportunities
-- Open Source Collaboration
-- Internship & Graduate Programs
+# 🔹 About Me
+🎓 **B.Tech** in Computer Science Engineering @ JNTUA (2022 – 2026)
+💼 Internships:
+🚀 Frontend Web Development Intern @ **Future Interns** (Oct – Nov 2025)
+🌐 Full Stack Developer Intern @ **Codetech IT Solutions** (Jun – Jul 2025)
+🌟 Passionate about Full Stack Development, AI integration, scalable APIs, and modern UI/UX
 
 ---
 
-# Tech Stack
-
-## Languages
+# 🔹 Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,html,css" />
-</p>
 
-## Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript" />
-</p>
+<br/><br/>
 
-## Backend & Databases
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
+<br/><br/>
 
-## Cloud, DevOps & Tooling
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 </p>
 
 ---
 
-# AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|----------|-------------|----------|
-| Machine Learning Fundamentals | Intermediate | Supervised & Unsupervised Learning |
-| Data Processing | Intermediate | Data Cleaning, Transformation, Visualization |
-| Python for AI | Advanced | NumPy, Pandas, Data Handling |
-| AI-Powered Applications | Intermediate | API Integration & Intelligent Features |
-| Model Deployment | Beginner | Web-based AI Application Deployment |
-| Prompt Engineering | Intermediate | LLM Interaction & Optimization |
-| Computer Vision | Beginner | Image Processing Fundamentals |
-| Generative AI | Intermediate | AI-Assisted Product Development |
-
----
-
-# Featured Projects
+# 🔹 Featured Projects
 
 <details>
 <summary><b>Learning Management System</b></summary>
@@ -165,33 +137,7 @@ A professional portfolio platform showcasing projects, skills, and technical exp
 </details>
 
 <details>
-<summary><b>Real-Time Chat Application</b></summary>
-
-### Project Overview
-
-A modern communication platform powered by WebSockets enabling real-time messaging between multiple users.
-
-| Metric | Details |
-|---------|----------|
-| Stack | React.js, Node.js, Express.js, Socket.IO |
-| Scale | Multi-User Messaging Platform |
-| Performance | Real-Time Communication |
-| Security | Route Protection |
-| Impact | Instant User Engagement |
-| Repository | https://github.com/navya21-codes |
-
-#### Highlights
-
-- WebSocket communication
-- Real-time message delivery
-- Multiple client connectivity
-- Authentication workflows
-- Modern responsive UI
-
-</details>
-
-<details>
-<summary><b>Weather Intelligence Application</b></summary>
+<summary><b>Weather Application</b></summary>
 
 ### Project Overview
 
@@ -210,15 +156,12 @@ A weather analytics platform integrating external APIs to deliver real-time fore
 
 - Geolocation integration
 - Live weather data
-- Dynamic weather icons
-- Async/Await architecture
-- Robust error handling
-
+  
 </details>
 
 ---
 
-# Experience
+# 🔹 Experience
 
 ## Full Stack Web Development Intern
 
@@ -232,7 +175,6 @@ Delivered multiple production-ready applications utilizing MERN technologies, AP
 - Developed 3 production-ready full-stack applications
 - Built scalable REST APIs using Node.js & Express.js
 - Integrated MongoDB-backed architectures
-- Implemented modular backend systems
 - Collaborated on real-world product development
 
 **Skills**
@@ -262,141 +204,8 @@ Developed real-time communication systems and modern frontend solutions leveragi
 
 ---
 
-# Achievements
 
-<div align="center">
-
-| Recognition | Details |
-|------------|----------|
-| Full Stack Development | Built multiple production-ready applications |
-| Open Source Portfolio | Active GitHub Project Development |
-| Internship Experience | Successfully completed multiple internships |
-| Real-Time Systems | Developed WebSocket-based applications |
-| Academic Achievement | B.Tech CSE with strong engineering foundation |
-
-</div>
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-In%20Progress-7C3AED?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-In%20Progress-4F46E5?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Learning-9333EA?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Learning-6366F1?style=for-the-badge&logo=cisco)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/h2PCgNcEZi/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-7C3AED?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/navyachalla2004">
-<img src="https://img.shields.io/badge/HackerRank-Coding%20Profile-4F46E5?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-9333EA?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-6366F1?style=for-the-badge&logo=codechef"/>
-</a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navya21-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=navya21-codes&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navya21-codes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=navya21-codes&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navya21-codes&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced MERN Stack
-  - System Design
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Cloud Technologies
-
-Building:
-  - Scalable Full Stack Applications
-  - Real-Time Communication Platforms
-  - AI-Powered Web Solutions
-
-Exploring:
-  - Generative AI
-  - Backend Architecture
-  - Cloud Deployment
-  - Open Source Contributions
-
-Open To:
-  - Software Engineer Roles
-  - Full Stack Developer Roles
-  - AI/ML Opportunities
-  - Graduate Engineer Programs
-```
-
----
-
-# Connect
+# 🔹 Connect With me
 
 <div align="center">
 
@@ -419,10 +228,6 @@ Open To:
 </div>
 
 ---
-
-<div align="center">
-
-### "Engineering reliable software today while building intelligent systems for tomorrow."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
 
