@@ -63,7 +63,7 @@
 ✓ Animated single-page design with particle canvas background and scroll-reveal effects
 ✓ Showcases skills, projects, and experience with smooth navigation across all sections
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
 
 ---
 
