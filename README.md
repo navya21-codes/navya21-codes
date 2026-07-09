@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm Navya Challa</h1>
+<h1 align="center">  Hi, I'm Navya Challa</h1>
 
 <p align="center">
 🚀 <strong>Frontend Developer</strong> | 🌐 <strong>Full Stack Learner</strong> | 🤖 <strong>AI Enthusiast</strong> | 💼 <strong>Open to Opportunities</strong>
