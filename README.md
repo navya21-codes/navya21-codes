@@ -1,16 +1,17 @@
 <h1 align="center">  Hi, I'm Navya Challa</h1>
 
 <p align="center">
-🚀 <strong>Frontend Developer</strong> | 🌐 <strong>Full Stack Learner</strong> | 🤖 <strong>AI Enthusiast</strong> | 💼 <strong>Open to Opportunities</strong>
+🚀 <strong>Frontend Developer</strong> | 🌐 <strong>Full Stack Learner</strong> |  <strong>Python Full Stack Developer Intern @Pentagon Space</strong> | 💼 <strong>Open to Opportunities</strong>
 </p>
 
 ## 🔹 About Me
 
 - 🎓 B.Tech in **Computer Science & Engineering** @ JNTUA (2022 - 2026)
 - 💼 **Internships**:
+   - 🌐 Python Full Stack Developer Intern @ **Pentagon Space** (July 2026)
    - 🌐 Full Stack Web Development Intern @ **Future Interns** (Oct – Nov 2025)
    - 🚀 Frontend Web Developer Intern @ **Codetech IT Solutions** (Jun – Jul 2025)
-- 💡 Passionate about **Full Stack Development, AI Integration, Scalable APIs, and Modern UI/UX**
+- 💡 Passionate about **Full Stack Development,Scalable APIs, and Modern UI/UX**
 ---
 
 ## 🔹 Skills & Tools
@@ -29,14 +30,21 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 </p>
 
@@ -58,12 +66,12 @@
 
 ### 🌐 Portfolio Website
 
-🔗 [Live Demo](https://developer-portfolio-sooty-mu.vercel.app/) | 💻 [GitHub](https://github.com/navya21-codes/Developer-Portfolio)
+🔗 [Live Demo](https://portfolio-tau-jet-7255p0tmdq.vercel.app/) | 💻 [GitHub](https://github.com/navya21-codes/Portfolio)
 
-✓ Animated single-page design with particle canvas background and scroll-reveal effects
-✓ Showcases skills, projects, and experience with smooth navigation across all sections
+✓ Developed a fully responsive personal portfolio website using HTML5, CSS3 and JavaScript(ES6+) to showcase projects, skills, certifications, and contact information.
+✓ Designed a modern, mobile-friendly user interface with smooth scrolling, responsive layouts, and interactive animations for an enhanced user experience.
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+**Tech Stack:** HTML5, CSS3, JavaScript(ES6+), Responsive Design
 
 ---
 
