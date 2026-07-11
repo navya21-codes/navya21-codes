@@ -68,8 +68,9 @@
 
 🔗 [Live Demo](https://portfolio-tau-jet-7255p0tmdq.vercel.app/) | 💻 [GitHub](https://github.com/navya21-codes/Portfolio)
 
-✓ Developed a fully responsive personal portfolio website using HTML5, CSS3 and JavaScript(ES6+) to showcase projects, skills, certifications, and contact information.
-✓ Designed a modern, mobile-friendly user interface with smooth scrolling, responsive layouts, and interactive animations for an enhanced user experience.
+✔ Developed a fully responsive personal portfolio website using HTML5, CSS3 and JavaScript(ES6+) to showcase projects, skills, certifications, and contact information
+
+✔ Designed a modern, mobile-friendly user interface with smooth scrolling, responsive layouts, and interactive animations for an enhanced user experience
 
 **Tech Stack:** HTML5, CSS3, JavaScript(ES6+), Responsive Design
 
