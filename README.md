@@ -10,7 +10,7 @@
 - 💼 **Internships**:
    - 💻 Python Full Stack Developer Intern @ **Pentagon Space** (July 2026)
    - 🌐 Full Stack Web Development Intern @ **Future Interns** (Oct – Nov 2025)
-   - 🚀 Frontend Web Developer Intern @ **Codetech IT Solutions** (Jun – Jul 2025)
+   - 🚀 Frontend Web Developement Intern @ **Codetech IT Solutions** (Jun – Jul 2025)
 - 💡 Passionate about **Full Stack Development,Scalable APIs, and Modern UI/UX**
 ---
 
