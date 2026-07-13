@@ -1,7 +1,7 @@
 <h1 align="center">  Hi, I'm Navya Challa</h1>
 
 <p align="center">
-🚀 <strong>Frontend Developer</strong> | 🌐 <strong>Full Stack Developer</strong> |  <strong>Python Full Stack Developer Intern @Pentagon Space</strong> | 💼 <strong>Open to Opportunities</strong>
+ <strong>Frontend Developer</strong> | <strong>Full Stack Developer</strong> | <strong>Python Full Stack Developer Intern @Pentagon Space</strong> | <strong>Open to Opportunities</strong>
 </p>
 
 ## 🔹 About Me
